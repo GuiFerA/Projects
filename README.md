@@ -1,2 +1,2 @@
 # Projects
-Repositório de Projetos do Curso - Carol
+Projetos sem pés nem cabeças
