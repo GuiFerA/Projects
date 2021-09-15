@@ -1,2 +1,2 @@
 # Projects
-Projetos sem pés nem cabeças
+Projetos não Acadêmicos
